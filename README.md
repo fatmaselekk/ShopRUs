@@ -14,4 +14,4 @@ Design Pattern;
  
  Unit Test; Moq, NUnit
 
- Uml Class Diagram, Solution/ClassDiagram
+ Uml Class Diagram => Solution/ClassDiagram
