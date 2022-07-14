@@ -13,3 +13,5 @@ Design Pattern;
  Tools; Asp.NetCore, Mssql, Entity Framework Core, SwaggerUI, AutoMapper
  
  Unit Test; Moq
+
+ Uml Class Diagram, Solution/ClassDiagram
