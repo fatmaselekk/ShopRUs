@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Test\\ShopsRUs.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\ShopRUs.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\ShopRUs.API.csproj",
+        "projectName": "ShopRUs.API",
+        "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\ShopRUs.API.csproj",
+        "packagesPath": "C:\\Users\\fsele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fsele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\ShopsRUs.Application.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\ShopsRUs.Application.csproj"
+              },
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj"
+              },
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\ShopsRUs.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\ShopsRUs.Application.csproj",
+        "projectName": "ShopsRUs.Application",
+        "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\ShopsRUs.Application.csproj",
+        "packagesPath": "C:\\Users\\fsele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fsele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj"
+              },
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj",
+        "projectName": "ShopsRUs.Domain",
+        "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj",
+        "packagesPath": "C:\\Users\\fsele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fsele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj",
+        "projectName": "ShopsRUs.Infrastructure",
+        "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\ShopsRUs.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fsele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Infrasturcture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fsele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Core\\ShopsRUs.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Test\\ShopsRUs.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Test\\ShopsRUs.Test.csproj",
+        "projectName": "ShopsRUs.Test",
+        "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Test\\ShopsRUs.Test.csproj",
+        "packagesPath": "C:\\Users\\fsele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopsRUs.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fsele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\ShopRUs.API.csproj": {
+                "projectPath": "C:\\Users\\fsele\\OneDrive\\Belgeler\\GitHub\\ShopRUs\\ShopsRus\\ShopRUs.API2\\ShopRUs.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

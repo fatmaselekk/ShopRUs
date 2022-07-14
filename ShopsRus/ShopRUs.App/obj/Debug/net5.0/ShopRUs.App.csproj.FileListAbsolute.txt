@@ -1,0 +1,11 @@
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\bin\Debug\net5.0\ShopRUs.App.deps.json
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\bin\Debug\net5.0\ShopRUs.App.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\bin\Debug\net5.0\ref\ShopRUs.App.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\bin\Debug\net5.0\ShopRUs.App.pdb
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.AssemblyInfoInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.AssemblyInfo.cs
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.csproj.CoreCompileInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ref\ShopRUs.App.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopRUs.App\obj\Debug\net5.0\ShopRUs.App.pdb

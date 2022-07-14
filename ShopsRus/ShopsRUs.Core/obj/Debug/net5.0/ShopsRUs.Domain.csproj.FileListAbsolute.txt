@@ -1,0 +1,12 @@
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\bin\Debug\net5.0\ShopsRUs.Domain.deps.json
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\bin\Debug\net5.0\ShopsRUs.Domain.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\bin\Debug\net5.0\ref\ShopsRUs.Domain.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\bin\Debug\net5.0\ShopsRUs.Domain.pdb
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.AssemblyInfoInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.AssemblyInfo.cs
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ref\ShopsRUs.Domain.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.pdb
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Core\obj\Debug\net5.0\ShopsRUs.Domain.csproj.AssemblyReference.cache

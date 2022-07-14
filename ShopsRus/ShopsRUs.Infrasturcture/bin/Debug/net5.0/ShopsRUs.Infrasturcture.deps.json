@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShopsRUs.Infrasturcture/1.0.0": {
+        "runtime": {
+          "ShopsRUs.Infrasturcture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopsRUs.Infrasturcture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\bin\Debug\net5.0\ShopsRUs.Infrasturcture.deps.json
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\bin\Debug\net5.0\ShopsRUs.Infrasturcture.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\bin\Debug\net5.0\ref\ShopsRUs.Infrasturcture.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\bin\Debug\net5.0\ShopsRUs.Infrasturcture.pdb
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.AssemblyInfo.cs
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ref\ShopsRUs.Infrasturcture.dll
+C:\Users\fsele\source\repos\ShopsRus\ShopsRUs.Infrasturcture\obj\Debug\net5.0\ShopsRUs.Infrasturcture.pdb
